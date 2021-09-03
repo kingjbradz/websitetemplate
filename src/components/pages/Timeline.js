@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <div className="page-heading">
             <h1>
-            Timeline ya dick
+            Timeline
             </h1>
         </div>
     )
