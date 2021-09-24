@@ -6,6 +6,7 @@ const Home = () => {
             <h1>
             Contact
             </h1>
+            <p>name</p>
         </div>
     )
 }
