@@ -32,6 +32,7 @@
   min-height: 12vh;
   position: relative;
   z-index: 2;
+  margin-top: 10px;
 }
 
 .page-heading h1 {
@@ -47,6 +48,8 @@
   display: flex;
   justify-content: center;
   position: relative;
+  max-height: 30rem;
+  margin-top: 10px;
 }
 
 #about-text {
@@ -59,3 +62,19 @@
   margin: 10vh;
   padding: 20vh;
 }
+
+.contact-form .enquiry-table {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.contact-title {
+  align-self: flex-start;
+  text-align: left;
+}
+
+.contact-filling {
+  align-self: flex-end;
+}
+
